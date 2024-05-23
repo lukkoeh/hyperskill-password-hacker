@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 'Creates a new dictionary with specified keys and a common value '
+  - text: Removes keys from an existing dictionary
+  - text: Creates a new dictionary from an existing one
+  - text: Updates the value of a specific key in a dictionary
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36305#comment
+status: Solved
+record: -1
+custom_name: What does the fromkeys method do?
+local_check: false

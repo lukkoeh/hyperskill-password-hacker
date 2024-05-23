@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Adds new elements from another dictionary or an iterable of key-value pairs
+  - text: Removes elements from the dictionary
+  - text: Updates the values of all keys in the dictionary
+  - text: Creates a new dictionary with the updated elements
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36307#comment
+status: Solved
+record: -1
+local_check: false
